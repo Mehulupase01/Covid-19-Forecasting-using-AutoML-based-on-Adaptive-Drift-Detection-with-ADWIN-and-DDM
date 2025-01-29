@@ -1,0 +1,10 @@
+Adaptive Model - Cases Predictions Evaluation:
+RMSE: 3128.65
+MAE: 1775.07
+R2: 0.27
+
+Adaptive Model - Deaths Predictions Evaluation:
+RMSE: 94.99
+MAE: 61.38
+R2: -0.63
+

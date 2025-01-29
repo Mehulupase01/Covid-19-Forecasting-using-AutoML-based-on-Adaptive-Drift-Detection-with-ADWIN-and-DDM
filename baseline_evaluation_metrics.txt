@@ -1,0 +1,10 @@
+Cases Predictions Evaluation:
+RMSE: 4760.92
+MAE: 3781.14
+R2: -4.56
+
+Deaths Predictions Evaluation:
+RMSE: 99.91
+MAE: 92.05
+R2: -8.89
+
